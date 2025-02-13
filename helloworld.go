@@ -1,7 +1,7 @@
-package main
+package olamundo
 
 import "fmt"
 
-func main() {
+func holamundo {
 	fmt.Println("ola mundo go")
 }
