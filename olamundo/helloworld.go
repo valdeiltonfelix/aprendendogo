@@ -2,6 +2,6 @@ package olamundo
 
 import "fmt"
 
-func Holamundo {
+func Holamundo(){
 	fmt.Println("ola mundo go")
 }
